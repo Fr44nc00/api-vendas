@@ -16,3 +16,11 @@ https://claude.ai/code/artifact/68cd2944-af3d-430f-8e6f-ea27c4186982
 ### Captura de tela do serviço registrado
 
 <img src="./Capturas/Exercicio1.png">
+
+---
+
+## Exercício 2
+
+Nome completo: Mateus Franco Soares
+Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório público)
+
