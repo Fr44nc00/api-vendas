@@ -24,3 +24,30 @@ https://claude.ai/code/artifact/68cd2944-af3d-430f-8e6f-ea27c4186982
 Nome completo: Mateus Franco Soares
 Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório público)
 
+### Capturas de tela do Pull Request
+
+<img src="./Capturas/Exercicio2-1.png">
+
+---
+
+<img src="./Capturas/Exercicio2-2.png">
+
+---
+
+<img src="./Capturas/Exercicio2-3.png">
+
+---
+
+## Exercício 3
+
+### Captura de tela do terminal mostrando o microsserviço funcionando
+
+<img src="./Capturas/Exercicio3.png">
+
+---
+
+## Exercício 4
+
+### Captura de tela dos registros no banco H2
+
+<img src="./Capturas/Exercicio4.png">
