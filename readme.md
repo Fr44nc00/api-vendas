@@ -35,19 +35,3 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 ---
 
 <img src="./Capturas/Exercicio2-3.png">
-
----
-
-## Exercício 3
-
-### Captura de tela do terminal mostrando o microsserviço funcionando
-
-<img src="./Capturas/Exercicio3.png">
-
----
-
-## Exercício 4
-
-### Captura de tela dos registros no banco H2
-
-<img src="./Capturas/Exercicio4.png">
