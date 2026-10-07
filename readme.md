@@ -93,3 +93,11 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 ### Config-server chamando o fornecedor-service
 
 <img src="./Capturas/Exercicio7-2.png">
+
+---
+
+## Exercício 8
+
+### Gateway chamando o serviço
+
+<img src="./Capturas/Exercicio8.png">
