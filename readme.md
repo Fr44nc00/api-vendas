@@ -51,3 +51,23 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 ### Captura de tela dos registros no banco H2
 
 <img src="./Capturas/Exercicio4.png">
+
+---
+
+## Exercício 5
+
+### Lista de todos os fornecedores
+
+<img src="./Capturas/Exercicio2-1.png">
+
+---
+
+### Fornecedor específico
+
+<img src="./Capturas/Exercicio2-2.png">
+
+---
+
+### Erro caso o fornecedor não exista
+
+<img src="./Capturas/Exercicio2-3.png">
