@@ -71,3 +71,11 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 ### Erro caso o fornecedor não exista
 
 <img src="./Capturas/Exercicio5-3.png">
+
+---
+
+## Exercício 6
+
+### Serviço no Eureka Server
+
+<img src="./Capturas/Exercicio6.png">
