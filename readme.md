@@ -79,3 +79,17 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 ### Serviço no Eureka Server
 
 <img src="./Capturas/Exercicio6.png">
+
+---
+
+## Exercício 7
+
+### Config-server no navegador
+
+<img src="./Capturas/Exercicio7-1.png">
+
+---
+
+### Config-server chamando o fornecedor-service
+
+<img src="./Capturas/Exercicio7-2.png">
