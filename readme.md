@@ -58,16 +58,16 @@ Matrícula: "123.456.789-01" (não quero mostrar meu CPF num repositório públi
 
 ### Lista de todos os fornecedores
 
-<img src="./Capturas/Exercicio2-1.png">
+<img src="./Capturas/Exercicio5-1.png">
 
 ---
 
 ### Fornecedor específico
 
-<img src="./Capturas/Exercicio2-2.png">
+<img src="./Capturas/Exercicio5-2.png">
 
 ---
 
 ### Erro caso o fornecedor não exista
 
-<img src="./Capturas/Exercicio2-3.png">
+<img src="./Capturas/Exercicio5-3.png">
